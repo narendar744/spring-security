@@ -8,7 +8,7 @@
   <name>spring-security Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <properties>
-		<springframework.version>5.0.2.RELEASE</springframework.version>
+		<springframework.version>5.1.0.RELEASE</springframework.version>
 		<springsecurity.version>5.0.0.RELEASE</springsecurity.version>
 		<mysql.connector.version>8.0.15</mysql.connector.version>
 		<c3po.version>0.9.5.4</c3po.version>
